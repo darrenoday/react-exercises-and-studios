@@ -1,7 +1,12 @@
 .choresText {
-   color: black;
+   color: purple;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: larger;
+   font-style: italic;
 }
 
+
 .choresHeading {
-   color: black;
+   color:black;
+   text-decoration: underline;
 }
