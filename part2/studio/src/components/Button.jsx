@@ -1,4 +1,11 @@
-function Button() {
+
+
+function Button(prop) {
+   const saveButton = prop.saveButton
+  if (saveButton === true){
+    return <saveButton/>
+  }
+  
    return;
  }
  

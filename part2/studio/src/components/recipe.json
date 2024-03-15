@@ -13,6 +13,20 @@
        "heavy cream",
        "milk"
      ]
-   }
+   },
+   {"name": "turducken",
+   "author": "Stephanie Melchione",
+   "description": "birds all the way down",
+   "website": "https://www.seriouseats.com/the-ultimate-turducken-recipe",
+   "recipeImage": "https://www.seriouseats.com/thmb/fI5akjJ2dS8psyDKIY9_aWKYXzg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2012__10__20121027-turducken-food-lab-64-69d9fd10521346a290f3ea70061706d0.jpg",
+   "authorImage": "https://www.seriouseats.com/thmb/knstpu30mxefOzHwl2fE17RSIKE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kenji-lopez-alt-9e7ff3ba54e24328a853d774a05fd4b8.jpg",
+   "ingredients": [
+     "trkey",
+     "duck",
+     "chickwn",
+     "buttah",
+     "madness"
+     ]
+    }
  ]
  
